@@ -18,9 +18,8 @@ Email: Katkutia@bk.ru
 
 <details>
 <summary>Диплом</summary>
-  <p> ![Рисунок1](https://github.com/user-attachments/assets/73947036-e5ef-4d6e-a292-96dd87af538b)
-</p>
+  <p>[1.png](https://postimg.cc/Bj6XC6J7)</p>
 </details>
 
 
-<img src="(https://github.com/user-attachments/assets/73947036-e5ef-4d6e-a292-96dd87af538b)" alt="" width="150" tabindex="0"/>
+[Диплом](https://i.postimg.cc/t4dWpZwb/1.png)
