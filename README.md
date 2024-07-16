@@ -22,4 +22,4 @@ Email: Katkutia@bk.ru
 </details>
 
 
-[Диплом](https://postimg.cc/n9ZKVV23)
+[Диплом](https://photos.google.com/album/AF1QipMoFeVYuznwBCGFMZ0Vh5KK7s_2XtCQwDawQugJ/photo/AF1QipPDVyOYEIWEI1jb5S7BdrgjXJtCAzYXKYczOcba)
