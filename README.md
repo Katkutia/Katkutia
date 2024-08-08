@@ -21,12 +21,12 @@
 [Сертификат Автоматизированное тестирование](https://netology.ru/sharing/eae6e12e65959a744f44818cb7db2afe?utm_source=social&utm_campaign=certificate_lms )
 
 
-<details>
-<summary> Контакты для связи </summary>
-<p>Telegram:[ @Katkutia](https://t.me/Katkutia)
-Email: Katkutia@bk.ru</p>
-</details>
+[Сертификат о заверщении курса Тестировщик ПО](https://netology.ru/sharing/402911648f38ca1f95fbc6d322407b15?utm_source=social&utm_campaign=certificate_lms )
 
 
+<p  align="left">
+<a href="https://t.me/Katkutia"><img src="https://img.shields.io/badge/-Katerina-blue?style=flat&logo=Telegram&logoColor=white"></a>
+<a href="mailto:Katkutia@bk.ru"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white"></a>
+</p
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
